@@ -1,4 +1,5 @@
-# Custom Among Us Announcement Server
+# THIS IS NOT A MOD
+## Custom Among Us Announcement Server
 note: this **WILL** need a mod to function.
 
 setup:
